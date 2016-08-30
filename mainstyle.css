@@ -1,9 +1,40 @@
 @charset "utf-8";
 body div p {
 }
+.floatright {
+	float: right;
+}
 .halfpage {
 	width:50%;
 }
-.floatright {
-	float: right;
+.floatcentre {
+	float: centre;
+}table tr td {
+	text-align: center;
+	border: 0 solid #070707;
+	background-image: url(url);
+}
+body div table {
+	background-image: url(beachNet.jpg);
+	text-align: center;
+	background-position: center 20%;
+	background-size: cover;
+}
+img {
+	border: 1px solid #000000;
+}
+.halfpage p input {
+	bottom: 0px;
+}
+.halfpage p input {
+}
+
+.halfpage p input {
+	
+}
+.halfpage p input {
+}
+.halfpage p input {
+}
+.halfpage p span {
 }
