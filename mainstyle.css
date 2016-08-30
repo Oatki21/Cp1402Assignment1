@@ -1,0 +1,9 @@
+@charset "utf-8";
+body div p {
+}
+.halfpage {
+	width:50%;
+}
+.floatright {
+	float: right;
+}
