@@ -1,6 +1,4 @@
 @charset "utf-8";
-body div p {
-}
 .floatright {
 	float: right;
 }
@@ -37,18 +35,7 @@ img {
 .halfpage p input {
 	bottom: 0px;
 }
-.halfpage p input {
-}
 
-.halfpage p input {
-	
-}
-.halfpage p input {
-}
-.halfpage p input {
-}
-.halfpage p span {
-}
 body h1 a {
 	color: #FFFFFF;
 	border-width: medium;
@@ -57,17 +44,10 @@ body h1 a {
 	/* [disabled]border-spacing: 100px 0px; */
 	border-top-right-radius: 0px;
 }
-body h1 a {
-}
 
-body h1 {
-}
 body h1 title {
 	border-right-style: dotted;
-
 }
-
-
 body h1 img {
 	border-width: 0px;
 }
@@ -76,25 +56,8 @@ body h1 a {
 	text-decoration: none;
 }
 body h1 a {
-}
-body h1 a {
 	border-top-width: thin;
 }
-body h1 a {
-}
-
-
-
-body h1 a {
-}
-body h1 span {
-}
-
-
-
-
-
-
 a:hover {
 	border-top: thin solid #FFFFFF;
 	
@@ -107,25 +70,14 @@ body h1 span {
 	text-decoration: none;
 }
 body h1 span {
-}
-body h1 span {
 	border-top-width: thin;
 }
-body div span p {
-}
-body div p {
-}
+
 body div div {
 	color: #000000;
 }
 body footer {
 	text-align: center;
-}
-
-
-
-
-body h1 a {
 }
 body h1 {
 	background-color: #68DFF8;
@@ -137,10 +89,6 @@ body h1 a {
 	font-size: 20px;
 }
 body h1 a {
-}
-body div h2 {
-}
-body h1 a {
 	font-family: open-sans;
 	font-style: normal;
 	font-weight: 300;
@@ -150,8 +98,6 @@ body h1 span {
 	font-style: normal;
 	font-weight: 400;
 }
-body h1 img {
-}
 body h1 span {
 	font-family: open-sans;
 	font-style: normal;
@@ -161,10 +107,6 @@ body div h2 {
 	font-family: open-sans;
 	font-style: normal;
 	font-weight: 300;
-}
-body h1 a {
-}
-body h1 a {
 }
 body footer a {
 	border-width: medium;
@@ -180,52 +122,27 @@ font-size:20px
 	font-style: normal;
 	font-weight: 400;
 }
-.halfpage h2 {
-}
-
-
 body footer {
 	background-color: #68DFF8;
 	clear: both;
 }
-
-
-
-
-
-body h1 span {
-}
 body h1 span {
 	font-family: open-sans;
 	font-style: normal;
 	font-weight: 300;
-}
-.halfpage {
 }
 .halfpage h2 {
 	font-family: open-sans;
 	font-style: normal;
 	font-weight: 300;
 }
-body footer a {
-	
-}
 body div h2 {
 	font-family: open-sans;
 	font-style: normal;
 	font-weight: 300;
 }
-
 body div p {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-}
-body h1 span {
-}
-body div h2 {
-}
-body div h2 {
-}
-.halfpage h2 {
 }
 body div h2 {
 	font-family: open-sans;
@@ -250,9 +167,6 @@ body footer a {
 body footer a {
 	padding-left: 40px;
 	padding-right: 40px;
-}
-div p span {
-
 }
 form {
 	border-left: thin solid #000000;
