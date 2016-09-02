@@ -4,21 +4,32 @@ body div p {
 .floatright {
 	float: right;
 }
+.floatleft {
+	float: left;
+}
 .halfpage {
 	width:50%;
 }
 .floatcentre {
 	float: centre;
-}table tr td {
+}
+.allignment {
+	width: 60px;
+	display:inline-block;
+}
+table tr td {
 	text-align: center;
 	border: 0 solid #070707;
 	background-image: url(url);
+	opacity: 1;
 }
 body div table {
-	background-image: url(beachNet.jpg);
+	background-image: url(beachNet74.jpg);
 	text-align: center;
 	background-position: center 20%;
 	background-size: cover;
+	opacity: 1;
+	border: thin solid #000000;
 }
 img {
 	border: 1px solid #000000;
@@ -107,7 +118,7 @@ body div p {
 body div div {
 	color: #000000;
 }
-body footer a {
+body footer {
 	text-align: center;
 }
 
@@ -175,6 +186,7 @@ font-size:20px
 
 body footer {
 	background-color: #68DFF8;
+	clear: both;
 }
 
 
@@ -234,5 +246,24 @@ body footer a {
 	font-family: open-sans;
 	font-style: normal;
 	font-weight: 300;
-	border-width: 40px;
+}
+body footer a {
+	padding-left: 40px;
+	padding-right: 40px;
+}
+div p span {
+
+}
+form {
+	border-left: thin solid #000000;
+	border-right: thin hidden #000000;
+	border-bottom: thin solid #000000;
+	border-top: thin solid #000000;
+	padding-left: 15px;
+	padding-bottom: 0px;
+}
+body h2 {
+	font-family: open-sans;
+	font-style: normal;
+	font-weight: 300;
 }
